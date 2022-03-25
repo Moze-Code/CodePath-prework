@@ -44,8 +44,8 @@ The following **additional** features are implemented:
 <br>w3schools.com
 <br>How to shuffle an array in JavaScript-youtube.com/watch?v=5sNGqsMpW1E
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-So I had two challenges while working on the game, my first was writing the nested if statements for the guess function. I had previously written programs that i used if/else-if statements that picked one of possible scenarios. I tried using the same approach here and was getting an undesired result such as the game only working for a turn, if the computer picked the next pattern and I choose the correct pick it would automatically declare i lost the game. It wasn’t until going back to update my understanding of the if control structure that I realized that my first if/else-if approach would not capture all the dependencies needed for the desired output and instead I should use only if/else. 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
+<br> So I had two challenges while working on the game, my first was writing the nested if statements for the guess function. I had previously written programs that i used if/else-if statements that picked one of possible scenarios. I tried using the same approach here and was getting an undesired result such as the game only working for a turn, if the computer picked the next pattern and I choose the correct pick it would automatically declare i lost the game. It wasn’t until going back to update my understanding of the if control structure that I realized that my first if/else-if approach would not capture all the dependencies needed for the desired output and instead I should use only if/else. 
 My Second challenge was writing the random pattern function that would change the order of the pattern array. This was a challenge at for me because been new to JavaScript I didn’t know how use the built in Math.random() function. So after a quick google search I was able to understand how to write the return method that randomizes the array.
 
 
