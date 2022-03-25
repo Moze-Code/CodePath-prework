@@ -40,11 +40,11 @@ The following **additional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-<br>w3schools.com
-<br>How to shuffle an array in JavaScript-youtube.com/watch?v=5sNGqsMpW1E
+    * w3schools.com
+    * How to shuffle an array in JavaScript-youtube.com/watch?v=5sNGqsMpW1E
 
 2. What was a challenge you encountered in creating this submission and How did you overcome it? 
-<br> So I had two challenges while working on the game, my first was writing the nested if statements for the guess function. I had previously written programs that i used if/else-if statements that picked one of possible scenarios. I tried using the same approach here and was getting an undesired result such as the game only working for a turn, if the computer picked the next pattern and I choose the correct pick it would automatically declare i lost the game. It wasn’t until going back to update my understanding of the if control structure that I realized that my first if/else-if approach would not capture all the dependencies needed for the desired output and instead I should use only if/else. 
+    * So I had two challenges while working on the game, my first was writing the nested if statements for the guess function. I had previously written programs that i used if/else-if statements that picked one of possible scenarios. I tried using the same approach here and was getting an undesired result such as the game only working for a turn, if the computer picked the next pattern and I choose the correct pick it would automatically declare i lost the game. It wasn’t until going back to update my understanding of the if control structure that I realized that my first if/else-if approach would not capture all the dependencies needed for the desired output and instead I should use only if/else. 
 My Second challenge was writing the random pattern function that would change the order of the pattern array. This was a challenge at for me because been new to JavaScript I didn’t know how use the built in Math.random() function. So after a quick google search I was able to understand how to write the return method that randomizes the array.
 
 
@@ -52,7 +52,7 @@ My Second challenge was writing the random pattern function that would change th
 <br> N/A
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). 
-<br>I would want to learn how to implement the countdown feature for game and learning more Html and CSS.
+    * I would want to learn how to implement the countdown feature for the game and learning more Html and CSS.
 
 
 
