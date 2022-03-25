@@ -49,7 +49,7 @@ My Second challenge was writing the random pattern function that would change th
 
 
 3. What questions about web development do you have after completing your submission?
-<br> N/A
+   * Are Html,CSS, and Javascript the only way to make web applications?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). 
     * I would want to learn how to implement the countdown feature for the game and learning more Html and CSS.
@@ -58,7 +58,7 @@ My Second challenge was writing the random pattern function that would change th
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://www.loom.com/share/ff36d12d6b094b5c800ad5f1abb11a02?sharedAppSource=personal_library
 
 
 ## License
